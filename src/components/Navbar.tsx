@@ -34,7 +34,7 @@ function Navbar() {
             <Button className="w-full md:w-auto bg-slate-100 text-black" variant={'outline'}>Login</Button>
           </Link>
         )}
-        <Link href="https://mask-my-feed-g1fwv341t-abhishekaggarawals-projects.vercel.app/u/Abhishek">
+        <Link href="/u/Abhishek">
             <Button className="w-full md:w-auto bg-slate-100 text-black" variant={'outline'}>Give feedback to Creater</Button>
           </Link>
         </div>
