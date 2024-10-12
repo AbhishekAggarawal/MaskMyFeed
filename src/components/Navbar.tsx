@@ -35,7 +35,7 @@ function Navbar() {
           </Link>
         )}
         <Link href="/u/Abhishek">
-            <Button className="w-full md:w-auto bg-slate-100 text-black" variant={'outline'}>Give feedback to Creater</Button>
+            <Button className="w-full md:w-auto bg-slate-100 text-black" variant={'outline'}>Give feedback to Creator</Button>
           </Link>
         </div>
         
